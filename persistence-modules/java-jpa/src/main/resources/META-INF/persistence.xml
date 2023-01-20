@@ -61,7 +61,7 @@
 			<property name="javax.persistence.jdbc.user"
 				value="baeldung" />
 			<property name="javax.persistence.jdbc.password"
-				value="YourPassword" />
+				value="BaeldungApple1976@@@###Fuck" />
 			<property name="hibernate.dialect"
 				value="org.hibernate.dialect.MySQLDialect" />
 			<property name="hibernate.show_sql" value="true" />

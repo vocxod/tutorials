@@ -5,9 +5,9 @@
     <class>com.baeldung.pattern.daopattern.entities.User</class>
     <properties>
       <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
-      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://databaseurl"/>
-      <property name="javax.persistence.jdbc.user" value="username"/>
-      <property name="javax.persistence.jdbc.password" value="password"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://predd"/>
+      <property name="javax.persistence.jdbc.user" value="predd"/>
+      <property name="javax.persistence.jdbc.password" value="bBD65855ZLzl@@@###"/>
       <!-- Hibernate Properties -->
       <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
       <property name="hibernate.show_sql" value="true"/>

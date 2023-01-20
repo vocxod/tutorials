@@ -1,6 +1,7 @@
 package com.baeldung.easymock;
 
-public class BaeldungArticle {
+
+        public class BaeldungArticle {
 
     public static BaeldungArticle simpleArticle(String title, String content) {
         return new BaeldungArticle(title, content);
